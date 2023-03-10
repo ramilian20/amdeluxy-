@@ -1,0 +1,46 @@
+.empower {
+  width: 90%;
+  height: 400px;
+  display: flex;
+  flex-direction: column;
+  margin-top: 50px;
+  margin-left: 5%;
+  margin-right: 5%;
+}
+
+.empowertitle {
+  width: 100%;
+  height: 40px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-top: 20px;
+}
+
+.titleempower {
+  font-size: 2rem;
+}
+
+.empowerdescripcionimg {
+  width: 100%;
+  height: 300px;
+  display: flex;
+  flex-direction: row;
+}
+
+.empowerdescripcion {
+  width: 60%;
+  height: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.empowertext {
+  font-size: 1.2rem;
+}
+
+.empowerimg {
+  width: 40%;
+  height: 100%;
+}
